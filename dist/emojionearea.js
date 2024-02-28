@@ -138,7 +138,7 @@ document = window.document || {};
         }
     }
     function getEmojioneVersion() {
-        return window.emojioneVersion || '3.1.2';
+        return window.emojioneVersion || '4.0.0';
     };
     function isObject(variable) {
         return typeof variable === 'object';
