@@ -138,7 +138,7 @@ document = window.document || {};
         }
     }
     function getEmojioneVersion() {
-        return window.emojioneVersion || '4.0.0';
+        return window.emojioneVersion || '4.0';
     };
     function isObject(variable) {
         return typeof variable === 'object';
@@ -178,7 +178,9 @@ document = window.document || {};
             case '3.1.1':
             case '3.1.2':
             case '3.1':
-            default: return 6;
+            return 6;
+            case '4.0':
+            default: return 7;
         }
     };
     function getDefaultOptions () {
