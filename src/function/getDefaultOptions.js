@@ -40,7 +40,7 @@ function($, emojione, getEmojioneVersion, detectVersion, getSupportMode) {
             autocomplete      : true,
             autocompleteTones : false,
             standalone        : false,
-            useInternalCDN    : true, // Use the self loading mechanism
+            useInternalCDN    : false, // Use the self loading mechanism
             imageType         : "png", // Default image type used by internal CDN
             recentEmojis      : true,
             textcomplete: {
@@ -131,7 +131,19 @@ function($, emojione, getEmojioneVersion, detectVersion, getSupportMode) {
                     "mermaid merman woman_elf man_elf woman_genie man_genie woman_zombie man_zombie " +
                     "womans_clothes shirt jeans necktie dress bikini kimono high_heel sandal boot mans_shoe athletic_shoe womans_hat " +
                     "tophat mortar_board crown helmet_with_cross school_satchel pouch purse handbag briefcase eyeglasses dark_sunglasses " +
-                    "closed_umbrella umbrella2 brain billed_cap scarf gloves coat socks "
+                    "closed_umbrella umbrella2 brain billed_cap scarf gloves coat socks man_supervillain person_pouting " +
+                    "woman_curly_haired woman_white_haired lab_coat man_bald fairy person_getting_haircut person_walking " +
+                    "white_haired person_bowing person_raising_hand mage superhero tooth genie levitate " +
+                    "man_in_steamy_room couple_with_heart_woman_man blond_haired_person zombie person_running " +
+                    "child person_facepalming woman_superhero person_frowning red_haired family_man_woman_boy " +
+                    "man_superhero merperson vampire hot_face man_detective person_shrugging foot older_adult " +
+                    "cold_face woozy_face pleading_face man_white_haired hiking_boot woman_supervillain " +
+                    "people_with_bunny_ears_partying person_wearing_turban man_curly_haired person_gesturing_ok " +
+                    "goggles person_getting_massage person_tipping_hand zany_face woman_bald curly_haired " +
+                    "man_police_officer womans_flat_shoe adult leg bald man_guard smiling_face_with_3_hearts " +
+                    "elf supervillain blond-haired_man man_red_haired bone man_construction_worker " +
+                    "partying_face kiss_woman_man person_gesturing_no person_in_steamy_room " +
+                    "woman_red_haired woman_in_steamy_room "
                 },
 
                 animals_nature: {
@@ -270,7 +282,7 @@ function($, emojione, getEmojioneVersion, detectVersion, getSupportMode) {
                     "flag_pw flag_ps flag_pa flag_pg flag_py flag_pe flag_ph flag_pn flag_pl flag_pt flag_pr flag_qa flag_re flag_ro flag_ru " +
                     "flag_rw flag_ws flag_sm flag_st flag_sa flag_sn flag_rs flag_sc flag_sl flag_sg flag_sx flag_sk flag_si flag_gs flag_sb " +
                     "flag_so flag_za flag_kr flag_ss flag_es flag_lk flag_bl flag_sh flag_kn flag_lc flag_pm flag_vc flag_sd flag_sr flag_sz " +
-                    "flag_se flag_ch flag_sy flag_tw flag_tj flag_tz flag_th flag_tl flag_tg flag_tk flag_to flag_tt flag_tn flag_tr flag_tm " +
+                    "flag_se flag_ch flag_sy flag_tj flag_tz flag_th flag_tl flag_tg flag_tk flag_to flag_tt flag_tn flag_tr flag_tm " +
                     "flag_tc flag_tv flag_vi flag_ug flag_ua flag_ae flag_gb flag_us flag_uy flag_uz flag_vu flag_va flag_ve flag_vn flag_wf " +
                     "flag_eh flag_ye flag_zm flag_zw flag_ac flag_ta flag_bv flag_hm flag_sj flag_um flag_ea flag_cp flag_dg flag_mf " +
                     "united_nations england scotland wales"
@@ -444,7 +456,7 @@ function($, emojione, getEmojioneVersion, detectVersion, getSupportMode) {
                     "fj fi fr pf ga gm ge de gh gi gr gl gd gu gt gn gw gy ht hn hk hu is in flag_id ir iq ie il it ci jm jp " +
                     "je jo kz ke ki xk kw kg la lv lb ls lr ly li lt lu mo mk mg mw my mv ml mt mh mr mu mx fm md mc mn me " +
                     "ms ma mz mm na nr np nl nc nz ni ne flag_ng nu kp no om pk pw ps pa pg py pe ph pl pt pr qa ro ru rw " +
-                    "sh kn lc vc ws sm st flag_sa sn rs sc sl sg sk si sb so za kr es lk sd sr sz se ch sy tw tj tz th tl " +
+                    "sh kn lc vc ws sm st flag_sa sn rs sc sl sg sk si sb so za kr es lk sd sr sz se ch sy tj tz th tl " +
                     "tg to tt tn tr flag_tm flag_tm ug ua ae gb us vi uy uz vu va ve vn wf eh ye zm zw re ax ta io bq cx " +
                     "cc gg im yt nf pn bl pm gs tk bv hm sj um ic ea cp dg as aq vg ck cw eu gf tf gp mq mp sx ss tc "
                 }

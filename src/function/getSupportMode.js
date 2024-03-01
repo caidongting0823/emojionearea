@@ -16,8 +16,9 @@ define([], function() {
             case '3.1.0':
             case '3.1.1':
             case '3.1.2':
-            case '3.1':
-            default: return 6;
+            case '3.1': return 6;
+            case '4.0':
+            default: return 7;
         }
     };
 });
