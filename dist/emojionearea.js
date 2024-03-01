@@ -308,7 +308,19 @@ document = window.document || {};
                     "mermaid merman woman_elf man_elf woman_genie man_genie woman_zombie man_zombie " +
                     "womans_clothes shirt jeans necktie dress bikini kimono high_heel sandal boot mans_shoe athletic_shoe womans_hat " +
                     "tophat mortar_board crown helmet_with_cross school_satchel pouch purse handbag briefcase eyeglasses dark_sunglasses " +
-                    "closed_umbrella umbrella2 brain billed_cap scarf gloves coat socks "
+                    "closed_umbrella umbrella2 brain billed_cap scarf gloves coat socks man_supervillain person_pouting " +
+                    "woman_curly_haired woman_white_haired lab_coat man_bald fairy person_getting_haircut person_walking " +
+                    "white_haired person_bowing person_raising_hand mage superhero tooth genie levitate " +
+                    "man_in_steamy_room couple_with_heart_woman_man blond_haired_person zombie person_running " +
+                    "child person_facepalming woman_superhero person_frowning red_haired family_man_woman_boy " +
+                    "man_superhero merperson vampire hot_face man_detective person_shrugging foot older_adult " +
+                    "cold_face woozy_face pleading_face man_white_haired hiking_boot woman_supervillain " +
+                    "people_with_bunny_ears_partying person_wearing_turban man_curly_haired person_gesturing_ok " +
+                    "goggles person_getting_massage person_tipping_hand zany_face woman_bald curly_haired " +
+                    "man_police_officer womans_flat_shoe adult leg bald man_guard smiling_face_with_3_hearts " +
+                    "elf supervillain blond-haired_man man_red_haired bone man_construction_worker " +
+                    "partying_face kiss_woman_man person_gesturing_no person_in_steamy_room " +
+                    "woman_red_haired woman_in_steamy_room "
                 },
 
                 animals_nature: {
@@ -621,7 +633,7 @@ document = window.document || {};
                     "fj fi fr pf ga gm ge de gh gi gr gl gd gu gt gn gw gy ht hn hk hu is in flag_id ir iq ie il it ci jm jp " +
                     "je jo kz ke ki xk kw kg la lv lb ls lr ly li lt lu mo mk mg mw my mv ml mt mh mr mu mx fm md mc mn me " +
                     "ms ma mz mm na nr np nl nc nz ni ne flag_ng nu kp no om pk pw ps pa pg py pe ph pl pt pr qa ro ru rw " +
-                    "sh kn lc vc ws sm st flag_sa sn rs sc sl sg sk si sb so za kr es lk sd sr sz se ch sy tw tj tz th tl " +
+                    "sh kn lc vc ws sm st flag_sa sn rs sc sl sg sk si sb so za kr es lk sd sr sz se ch sy tj tz th tl " +
                     "tg to tt tn tr flag_tm flag_tm ug ua ae gb us vi uy uz vu va ve vn wf eh ye zm zw re ax ta io bq cx " +
                     "cc gg im yt nf pn bl pm gs tk bv hm sj um ic ea cp dg as aq vg ck cw eu gf tf gp mq mp sx ss tc "
                 }
