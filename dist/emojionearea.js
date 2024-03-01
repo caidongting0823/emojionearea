@@ -138,7 +138,7 @@ document = window.document || {};
         }
     }
     function getEmojioneVersion() {
-        return window.emojioneVersion || '4.0';
+        return window.emojioneVersion || '4.5';
     };
     function isObject(variable) {
         return typeof variable === 'object';
@@ -179,7 +179,7 @@ document = window.document || {};
             case '3.1.2':
             case '3.1':
             return 6;
-            case '4.0':
+            case '4.5':
             default: return 7;
         }
     };
