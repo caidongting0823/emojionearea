@@ -277,6 +277,7 @@ document = window.document || {};
                     "wink relieved crazy_face star_struck heart_eyes kissing_heart kissing kissing_smiling_eyes kissing_closed_eyes yum " +
                     "stuck_out_tongue_winking_eye stuck_out_tongue_closed_eyes stuck_out_tongue money_mouth hugging nerd sunglasses " +
                     "cowboy smirk unamused disappointed pensive worried face_with_raised_eyebrow face_with_monocle confused slight_frown " +
+                    "hot_face cold_face woozy_face pleading_face zany_face smiling_face_with_3_hearts partying_face" +
                     "frowning2 persevere confounded tired_face weary triumph angry rage face_with_symbols_over_mouth " +
                     "no_mouth neutral_face expressionless hushed frowning anguished open_mouth astonished dizzy_face exploding_head flushed scream " +
                     "fearful cold_sweat cry disappointed_relieved drooling_face sob sweat sleepy sleeping rolling_eyes thinking " +
@@ -310,16 +311,16 @@ document = window.document || {};
                     "tophat mortar_board crown helmet_with_cross school_satchel pouch purse handbag briefcase eyeglasses dark_sunglasses " +
                     "closed_umbrella umbrella2 brain billed_cap scarf gloves coat socks man_supervillain person_pouting " +
                     "woman_curly_haired woman_white_haired lab_coat man_bald fairy person_getting_haircut person_walking " +
-                    "white_haired person_bowing person_raising_hand mage superhero tooth genie levitate " +
+                    "person_bowing person_raising_hand mage superhero tooth genie levitate " +
                     "man_in_steamy_room couple_with_heart_woman_man blond_haired_person zombie person_running " +
-                    "child person_facepalming woman_superhero person_frowning red_haired family_man_woman_boy " +
-                    "man_superhero merperson vampire hot_face man_detective person_shrugging foot older_adult " +
-                    "cold_face woozy_face pleading_face man_white_haired hiking_boot woman_supervillain " +
+                    "child person_facepalming woman_superhero person_frowning family_man_woman_boy " +
+                    "man_superhero merperson vampire man_detective person_shrugging foot older_adult " +
+                    "woozy_face pleading_face man_white_haired hiking_boot woman_supervillain " +
                     "people_with_bunny_ears_partying person_wearing_turban man_curly_haired person_gesturing_ok " +
-                    "goggles person_getting_massage person_tipping_hand zany_face woman_bald curly_haired " +
-                    "man_police_officer womans_flat_shoe adult leg bald man_guard smiling_face_with_3_hearts " +
+                    "goggles person_getting_massage person_tipping_hand zany_face woman_bald " +
+                    "man_police_officer womans_flat_shoe adult leg man_guard " +
                     "elf supervillain blond-haired_man man_red_haired bone man_construction_worker " +
-                    "partying_face kiss_woman_man person_gesturing_no person_in_steamy_room " +
+                    "kiss_woman_man person_gesturing_no person_in_steamy_room " +
                     "woman_red_haired woman_in_steamy_room "
                 },
 
